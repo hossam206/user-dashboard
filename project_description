@@ -1,0 +1,13 @@
+1. Project Overview
+Title: User_Dashboard.
+Description: the main goal of this project is to list users and display their legal information and navigate to each user to deploy specific user details.
+Link: https://66b541c5437cd49fa1edf146--regal-bubblegum-539990.netlify.app/.
+2. Features
+Dashboard with User_Data fetched from API
+Dark/Light Mode Toggle
+Search Functionality with id
+Pagination
+State Management with Redux to enhance performance 
+3. Tech Stack
+Frontend: React, Redux, React icons, react-router, redux-thunk, Tailwind CSS.
+Deployment: Netlif
